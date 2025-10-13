@@ -8,6 +8,7 @@ This project enables businesses to make **data-backed procurement decisions** an
 ## 📁 Project Structure
 Vendor_Performance_Analysis/
 │
+
 ├── Exploratory_Data_Analysis.ipynb                     # Data cleaning and exploratory insights
 
 ├── For_extracting_a_table_from_database.ipynb          # SQL data extraction workflow
