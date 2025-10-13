@@ -9,13 +9,21 @@ This project enables businesses to make **data-backed procurement decisions** an
 Vendor_Performance_Analysis/
 │
 ├── Exploratory_Data_Analysis.ipynb                     # Data cleaning and exploratory insights
+
 ├── For_extracting_a_table_from_database.ipynb          # SQL data extraction workflow
+
 ├── Vendor_performance_analysis.ipynb                   # Vendor performance calculation & analysis
+
 ├── get_vendor_summery.py                               # Script for generating vendor summaries
+
 ├── ingestion_db.py                                     # Database connection & data ingestion
+
 ├── vendor_sales_summary.csv                            # Processed dataset
+
 ├── vendor_sales_dashboard.pbix                         # Power BI dashboard
+
 └── README.md                                           # Project documentation
+
 
 yaml
 Copy code
