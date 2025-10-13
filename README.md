@@ -25,8 +25,7 @@ Vendor_Performance_Analysis/
 └── README.md                                           # Project documentation
 
 
-yaml
-Copy code
+
 
 ---
 
@@ -52,7 +51,7 @@ Copy code
    
 Install dependencies
 
-in notebook/cmd
+In notebook/cmd
 
 pip install -r requirements.txt
 
